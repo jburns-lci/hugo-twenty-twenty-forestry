@@ -6,5 +6,3 @@ description: Lippert is so meta
 I love lippert .com
 
 Here is cool text, it is so cool.
-
-This is a cool picture
